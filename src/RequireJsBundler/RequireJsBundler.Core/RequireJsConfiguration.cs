@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace RequireJsBundler.Core
 {
-    public class Class1
+    public static class RequireJsConfiguration
     {
+        public static void Configure()
+        {
+
+        }
     }
 }
